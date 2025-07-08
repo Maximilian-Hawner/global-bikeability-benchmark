@@ -16,7 +16,6 @@ Cities are clustered based on these indicators to reveal global patterns and typ
 
 ```bash
 .
-├── data/                # (Not included) Input and output data files
 ├── workflow.py          # Main script for bikeability, connectivity & accessibility computation
 ├── clustering.py        # Clustering analysis based on computed indicators
 └── README.md            # Project documentation
