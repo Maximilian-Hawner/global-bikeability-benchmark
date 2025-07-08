@@ -18,5 +18,6 @@ Cities are clustered based on these indicators to reveal global patterns and typ
 .
 ├── workflow.py          # Main script for bikeability, connectivity & accessibility computation
 ├── clustering.py        # Clustering analysis based on computed indicators
+├── city_list.csv        # CSV file for storing the city names
 └── README.md            # Project documentation
 
