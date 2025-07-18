@@ -15,7 +15,11 @@ Cities are clustered based on these indicators to reveal global patterns and typ
 ## Repository Structure
 
 ```bash
-.
+
+├── Results
+  ├── accessibility_graphs.zip  # Result graphs of accessibility calculations for global sample
+  ├── connectivity_graphs.zip   # Result graphs of connectivity calculations for global sample
+  ├── bikeability_graphs.zip    # Result graphs of bikeability calculations for global sample
 ├── workflow.py          # Main script for bikeability, connectivity & accessibility computation
 ├── clustering.py        # Clustering analysis based on computed indicators
 ├── city_list.csv        # CSV file for storing the city names
